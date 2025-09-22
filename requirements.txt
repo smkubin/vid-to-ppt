@@ -1,0 +1,8 @@
+moviepy==2.2.1
+python-pptx==0.6.21
+pillow>=11.2.0
+openai-whisper==20231117
+scikit-image==0.22.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+torch>=2.0.0
